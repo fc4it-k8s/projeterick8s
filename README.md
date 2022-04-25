@@ -1,2 +1,2 @@
-# projeterick8s
-Le projet avec ArgoCD
+# projet eric 
+Le projet avec optimisation de l'utilisation de ArgoCD
